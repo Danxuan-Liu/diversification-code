@@ -1,0 +1,1 @@
+Now SyntheticData folder is empty, You can set "create new dataset" parameter "True" in main.py to generate synthetic data.

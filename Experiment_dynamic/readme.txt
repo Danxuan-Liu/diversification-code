@@ -1,0 +1,1 @@
+Now SyntheticData folder is empty, You can use the data in "Experiment_synthetic".
