@@ -1,7 +1,7 @@
 ------------------------------------
 Original dataset:
 
-Now the file "data" and "DUC_2004" are empty. Download the original dataset and put it in file "DUC_2004". 
+Create the empty folder "data" and "DUC_2004". Now the folder "data" and "DUC_2004" are empty. Download the original dataset and put it in folder "DUC_2004". 
 
 ------------------------------------
 Operate dataset:
