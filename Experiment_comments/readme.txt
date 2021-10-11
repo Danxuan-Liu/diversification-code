@@ -1,7 +1,7 @@
 ------------------------------------
 Original dataset:
 
-Now the file "data" and "Comments" are empty.  
+Create the new empty folders "data" and "Comments". Now the folders "data" and "Comments" are empty.  
 
 ------------------------------------
 Operate dataset:
